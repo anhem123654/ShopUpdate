@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.eShopSolution.BackendApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="eShopSolution.Application/Catalog/Products/IProductService.cs">
+    <Files>
+      <File FileName="eShopSolution.Application/Catalog/Products/IProductService.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShopSolution" expanded="True">
+            <Node name="eShopSolution.Application" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Products" expanded="True">
+                  <Node name="IProductService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.eShopSolution.AdminApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.ItemProperties.eShopSolution.WebApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{C75DD70F-E8E4-42CB-A29B-40B3BEFFF077}" ItemName="eShopSolution.AdminApp" ConfigurationId="Default" />
+        <StartupItem ItemId="{D4A96809-16EF-488A-8737-9D6958B3218E}" ItemName="eShopSolution.BackendApi" ConfigurationId="Default" />
+        <StartupItem ItemId="{3DD8E286-12BA-44C4-991C-D86374643BED}" ItemName="eShopSolution.WebApp" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

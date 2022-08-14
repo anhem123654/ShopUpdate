@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Catalog\" />
+    <None Remove="Catalog\Product\" />
+    <None Remove="Common\" />
+    <None Remove="Microsoft.AspNetCore.Http.Features" />
+    <None Remove="Catalog\ProductImage\" />
+    <None Remove="System\" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="System\Roles\" />
+    <None Remove="System\Languages\" />
+    <None Remove="Catalog\Categries\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Slides\" />
+    <None Remove="Sales\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Catalog\" />
+    <Folder Include="Catalog\Products\" />
+    <Folder Include="Common\" />
+    <Folder Include="Catalog\ProductImages\" />
+    <Folder Include="System\" />
+    <Folder Include="System\Roles\" />
+    <Folder Include="System\Languages\" />
+    <Folder Include="Catalog\Categries\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Slides\" />
+    <Folder Include="Sales\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+  </ItemGroup>
+</Project>

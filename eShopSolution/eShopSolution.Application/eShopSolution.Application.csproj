@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Catalog\" />
+    <Folder Include="Catalog\Products\" />
+    <Folder Include="Common\" />
+    <Folder Include="System\" />
+    <Folder Include="System\Users\" />
+    <Folder Include="System\Roles\" />
+    <Folder Include="System\Languages\" />
+    <Folder Include="Catalog\Categories\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Slides\" />
+  </ItemGroup>
+  <ItemGroup>
+      <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eShopSolution.Data\eShopSolution.Data.csproj" />
+    <ProjectReference Include="..\eShopSolution.Utilities\eShopSolution.Utilities.csproj" />
+    <ProjectReference Include="..\eShopSolution.ViewModels\eShopSolution.ViewModels.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="System\Roles\" />
+    <None Remove="System\Languages\" />
+    <None Remove="Catalog\Categories\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Slides\" />
+  </ItemGroup>
+</Project>

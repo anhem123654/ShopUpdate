@@ -1,0 +1,17 @@
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.ApiIntegration.deps.json
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.ApiIntegration.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/ref/eShopSolution.ApiIntegration.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.ApiIntegration.pdb
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.Utilities.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.ViewModels.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.ViewModels.pdb
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/bin/Debug/net5.0/eShopSolution.Utilities.pdb
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.AssemblyInfo.cs
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.csproj.CopyComplete
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/ref/eShopSolution.ApiIntegration.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/obj/Debug/net5.0/eShopSolution.ApiIntegration.pdb

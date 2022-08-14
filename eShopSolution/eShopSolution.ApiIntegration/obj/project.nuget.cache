@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDLBs+XA3sf2Q7jQHmMFlnbZrnuOfYEuZS8uNG5PJt5gFEM1F96AZVrBdKZEhueznn2AemFT+2U8hSrDkCJZKw==",
+  "success": true,
+  "projectFilePath": "/Users/mannguyen/Projects/eShopSolution/eShopSolution.ApiIntegration/eShopSolution.ApiIntegration.csproj",
+  "expectedPackageFiles": [
+    "/Users/mannguyen/.nuget/packages/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/fluentvalidation.aspnetcore/8.6.2/fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.6.2/fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/microsoft.aspnetcore.http.features/5.0.17/microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/Users/mannguyen/.nuget/packages/system.io.pipelines/5.0.2/system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

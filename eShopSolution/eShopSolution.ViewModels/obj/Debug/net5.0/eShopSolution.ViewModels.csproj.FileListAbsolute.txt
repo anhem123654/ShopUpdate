@@ -1,0 +1,12 @@
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/bin/Debug/net5.0/eShopSolution.ViewModels.deps.json
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/bin/Debug/net5.0/eShopSolution.ViewModels.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/bin/Debug/net5.0/ref/eShopSolution.ViewModels.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/bin/Debug/net5.0/eShopSolution.ViewModels.pdb
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.csproj.AssemblyReference.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.AssemblyInfoInputs.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.AssemblyInfo.cs
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/ref/eShopSolution.ViewModels.dll
+/Users/mannguyen/Projects/eShopSolution/eShopSolution.ViewModels/obj/Debug/net5.0/eShopSolution.ViewModels.pdb
